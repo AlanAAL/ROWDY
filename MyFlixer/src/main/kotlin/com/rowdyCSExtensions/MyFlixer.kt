@@ -92,7 +92,7 @@ class MyFlixer(val plugin: MyFlixerPlugin) : MainAPI() {
                             )
                         }
             }
-            return newTvSeriesLoadResponse(name, "", TvType.TvSeries, episodes) {
+            return newTvSeriesLoadResponse(name, url, TvType.TvSeries, episodes) {
                 this.posterUrl = details.select("div.film-poster > img").attr("src")
                 this.plot = details.select("div.description").text()
                 this.rating =
