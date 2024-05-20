@@ -10,7 +10,7 @@ import com.lagradost.cloudstream3.utils.*
 import org.jsoup.nodes.Document
 
 class MyFlixer(val plugin: MyFlixerPlugin) : MainAPI() {
-    override var mainUrl = "myflixertv.to"
+    override var mainUrl = "https://myflixertv.to"
     override var name = "SfliX"
     override val supportedTypes = setOf(TvType.Movie, TvType.TvSeries)
     override var lang = "en"
