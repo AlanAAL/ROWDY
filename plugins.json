@@ -1,0 +1,456 @@
+[
+    {
+        "iconUrl": "https://manga.all-wish.me/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 19981,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "RowdyRushya"
+        ],
+        "tvTypes": [
+            "All"
+        ],
+        "version": 8,
+        "internalName": "AllWish",
+        "description": "Anime from all-wish.me",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/AllWish.cs3",
+        "name": "AllWish"
+    },
+    {
+        "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1200425504432472176/Anichi.png?ex=65eb0c5f&is=65d8975f&hm=974898b22b08774a5caa835b40546a6419280446b68255147dd1febb3abe9119&",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 55449,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 10,
+        "internalName": "Anichi",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/Anichi.cs3",
+        "name": "Anichi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeidhentai.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 10763,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "AnimeIdHentai",
+        "description": "Watch Anime From Hentai.pro",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/AnimeIdHentai.cs3",
+        "name": "AnimeIdHentai"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=anitaku.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 20877,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Cloudburst, Aryan Invader, KillerDogeEmpire, RowdyRushya"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 9,
+        "internalName": "AnitakuProvider",
+        "description": "Anime from Anitaku (formerly GoGo Anime)",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/AnitakuProvider.cs3",
+        "name": "AnitakuProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=aniwave.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 52586,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "RowdyRushya, Horis, Stormunblessed, KillerDogeEmpire, Enimax, Chokerman"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 52,
+        "internalName": "AniwaveProvider",
+        "description": "Watch Aniwave/9anime, I have had reports saying homepage doesn't work the first time but retrying should fix it",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/AniwaveProvider.cs3",
+        "name": "AniwaveProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=appaudiobooks.com/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 10434,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 3,
+        "internalName": "AppAudiobookProvider",
+        "description": "Audiobooks with some more books not in other sources -  download in addition to GoldenAudiobooks if book not found there",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/AppAudiobookProvider.cs3",
+        "name": "AppAudiobookProvider"
+    },
+    {
+        "iconUrl": "https://cinezone.to/assets/sites/cinezone/favicon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 19664,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "RowdyRushya"
+        ],
+        "tvTypes": [
+            "movies",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "CineZone",
+        "description": "The best extension for watching movies and tv shows from CineZone",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/CineZone.cs3",
+        "name": "CineZone"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 305620,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire",
+            "Code"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "CodeStream",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/CodeStream.cs3",
+        "name": "CodeStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cornhub.website&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 13078,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Stormunblessed",
+            "Jace",
+            "KillerDogeEmpire",
+            "Hexated",
+            "Coxju"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 8,
+        "internalName": "CornHubProvider",
+        "description": "Cornhub",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/CornHubProvider.cs3",
+        "name": "CornHubProvider"
+    },
+    {
+        "iconUrl": "https://desixflix.com/wp-content/uploads/2021/06/cropped-Play-1-Hot-icon-192x192.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 10906,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "RowdyRushya"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "DesiXFlix",
+        "description": "For all horny fappers out there.",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/DesiXFlix.cs3",
+        "name": "DesiXFlix"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=goldenaudiobook.com/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 12173,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 11,
+        "internalName": "GoldenAudiobookProvider",
+        "description": "Audiobooks - Use Picture in Picture or VLC as external player",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/GoldenAudiobookProvider.cs3",
+        "name": "GoldenAudiobookProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hentai.pro&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 10563,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "HentaiPro",
+        "description": "Watch Anime From Hentai.pro",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/HentaiPro.cs3",
+        "name": "HentaiPro"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hianime.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 58397,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Stormunblessed, KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "HiAnimeProvider",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/HiAnimeProvider.cs3",
+        "name": "HiAnimeProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/kronch.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 73367,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            "Stormunblessed, KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 32,
+        "internalName": "KronchENProvider",
+        "description": "With this extension you will be able to watch english hardsubbed/dubbed anime available in the US catalog of Crunchyroll.",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/KronchENProvider.cs3",
+        "name": "KronchENProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/kronch.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 65797,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            "Stormunblessed, KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 11,
+        "internalName": "KronchGEOENProvider",
+        "description": "This extensions is region locked, it will help you watch english hardsubbed/dubbed anime from Crunchyroll in your region",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/KronchGEOENProvider.cs3",
+        "name": "KronchGEOENProvider"
+    },
+    {
+        "iconUrl": "https://librivox.org/wp-content/themes/librivox/images/librivox-logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 10884,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 5,
+        "internalName": "LibriVoxAudiobookProvider",
+        "description": "Audiobooks in public domain",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/LibriVoxAudiobookProvider.cs3",
+        "name": "LibriVoxAudiobookProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/master/logos/mangadex.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 46521,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "RowdyRushya"
+        ],
+        "tvTypes": [
+            "Other"
+        ],
+        "version": 10,
+        "internalName": "MangaDex",
+        "description": "Read Manga from MangaDex",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/MangaDex.cs3",
+        "name": "MangaDex"
+    },
+    {
+        "iconUrl": "https://myflixerz.me/images/favicon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 16251,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "RowdyRushya"
+        ],
+        "tvTypes": [
+            "Movies",
+            "TV Series"
+        ],
+        "version": 2,
+        "internalName": "MyFlixer",
+        "description": "Watch movies and series from Flixerz",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/MyFlixer.cs3",
+        "name": "MyFlixer"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=noodlemagazine.com/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 12086,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire, Coxju"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 8,
+        "internalName": "NoodleMagazineProvider",
+        "description": "type .nofap in discord - Full Length",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/NoodleMagazineProvider.cs3",
+        "name": "NoodleMagazineProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/master/logos/onepace.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 8293,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "OnePaceProvider",
+        "description": "One Pace",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/OnePaceProvider.cs3",
+        "name": "OnePaceProvider"
+    },
+    {
+        "iconUrl": "https://img.sflix.to/xxrz/400x400/100/66/35/66356c25ce98cb12993249e21742b129/66356c25ce98cb12993249e21742b129.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 16262,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Othmane"
+        ],
+        "tvTypes": [
+            "Movies",
+            "TV Series"
+        ],
+        "version": 2,
+        "internalName": "SfliX",
+        "description": "SfliX To",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/SfliX.cs3",
+        "name": "SfliX"
+    },
+    {
+        "iconUrl": "https://tokybook.com/wp-content/uploads/TOKY-BOOK-website.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 11409,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 6,
+        "internalName": "TokyBookProvider",
+        "description": "Audiobook Source with good library, use Search, the homepage sucks",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/TokyBookProvider.cs3",
+        "name": "TokyBookProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/master/logos/ultima.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlanAAL/ROWDY",
+        "fileSize": 28233,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "RowdyRushya"
+        ],
+        "tvTypes": [
+            "All"
+        ],
+        "version": 14,
+        "internalName": "Ultima",
+        "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
+        "url": "https://raw.githubusercontent.com/AlanAAL/ROWDY/builds/Ultima.cs3",
+        "name": "Ultima"
+    }
+]
