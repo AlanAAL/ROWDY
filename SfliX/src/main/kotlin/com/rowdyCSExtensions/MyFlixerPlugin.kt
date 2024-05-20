@@ -12,6 +12,6 @@ class MyFlixerPlugin : Plugin() {
     override fun load(context: Context) {
         activity = context as AppCompatActivity
         // All providers should be added in this manner
-        registerMainAPI(MyFlixer(this))
+        registerMainAPI(MyFlixeer(this))
     }
 }
