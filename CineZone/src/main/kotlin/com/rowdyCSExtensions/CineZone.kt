@@ -19,7 +19,7 @@ class CineZone(val plugin: CineZonePlugin) : MainAPI() {
     override val hasMainPage = true
 
     companion object {
-        val mainUrl = "https://cinezone.to"
+        val mainUrl = "https://bflix.to"
         var name = "CineZone"
     }
 
