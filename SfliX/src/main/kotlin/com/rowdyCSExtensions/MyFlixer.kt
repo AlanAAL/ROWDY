@@ -11,7 +11,7 @@ import org.jsoup.nodes.Document
 
 class MyFlixer(val plugin: MyFlixerPlugin) : MainAPI() {
     override var mainUrl = "https://myflixertv.to"
-    override var name = "SfliX"
+    override var name = "SfliXer"
     override val supportedTypes = setOf(TvType.Movie, TvType.TvSeries)
     override var lang = "en"
     override val hasMainPage = true
