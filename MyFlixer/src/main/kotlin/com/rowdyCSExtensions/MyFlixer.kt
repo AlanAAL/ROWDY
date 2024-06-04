@@ -86,7 +86,7 @@ class MyFlixer(val plugin: MyFlixerPlugin) : MainAPI() {
                                     newEpisode(epId) {
                                         this.name = epName
                                         this.episode = epNum.toInt()
-                                        this.season = seasonNum.toInt()
+                                        this.season = seasonNum.replace("Series","").trim().toInt()
                                         this.data = "servers/" + epId
                                     }
                             )
